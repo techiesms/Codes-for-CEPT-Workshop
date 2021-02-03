@@ -17,7 +17,9 @@
 #include <DHT.h>
 
 //DHT11 for reading temperature and humidity value
-#define DHTPIN            D7
+#define DHTPIN            15
+
+#define DHTTYPE DHT11
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
