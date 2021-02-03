@@ -15,12 +15,12 @@
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "pLR7TGG9sMtK9yyCKk0Dmp8iKeAHRuSA";
+char auth[] = "YOUR_AUTH_TOKEN";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "SmS_jiofi";
-char pass[] = "sms123458956";
+char ssid[] = "TECHYMONK";
+char pass[] = "teslarocks";
 
 void setup()
 {
